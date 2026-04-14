@@ -38,11 +38,13 @@ Save File as Processed
 Adds filename to processed.txt
 Repeat
 Waits for 10 seconds and runs again
+
 🛠️ Technologies Used
 Python 🐍
 Twilio (WhatsApp API)
 python-dotenv
 OS & File Handling
+
 📂 Project Structure
 project-folder/
 │
